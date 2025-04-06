@@ -7,9 +7,9 @@
 
 
 int main() {
-    int a = 30;
+    int a = 10;
     int b = 20;
-    int c = 10;
+    int c = 30;
 
     std::cout << a << std::endl;
     std::cout << b << std::endl;
